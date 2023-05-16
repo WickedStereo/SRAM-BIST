@@ -27,8 +27,8 @@ Contributing:
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 Author:
-Anish Miryala
+Anish Miryala,
 New York University
 
 Acknowledgments:
-We would like to thank Professor Azeez Bhavanagarwala for their guidance and support throughout the development of this project.
+I would like to thank Professor Azeez Bhavanagarwala for their guidance and support throughout the development of this project.
